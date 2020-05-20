@@ -1,0 +1,106 @@
+@media screen and (min-width: 992px) {
+	.column {
+		width: 33.33%;
+	}
+}
+@media screen and (min-width: 768px max-width: 991px) {
+	.column {
+		width: 50%;
+	}
+}
+@media screeen and (max-width: 767px) {
+	.column {
+		width: 100%;
+	}
+}
+body {
+	background-color: #FFFFF0;
+}
+.title {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #48D1CC;
+	text-align: center;
+	font-size: 28px;
+	text-decoration: underline;
+}
+.title1 {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #1E90FF;
+	font-size: 22px;
+	width: 200px;
+	height: 25px;
+	border: 1px solid black;
+	text-align: center;
+	float: right;
+	margin-right: 50px;
+	margin-top: 0px;
+}
+.title2 {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #CD5C5C;
+	font-size: 22px;
+	width: 200px;
+	height: 25px;
+	border: 1px solid black;
+	text-align: center;
+	float: right;
+	margin-right: 50px;
+	margin-top: 0px;
+}
+.title3 {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #8B008B;
+	font-size: 22px;
+	width: 200px;
+	height: 25px;
+	border: 1px solid black;
+	text-align: center;
+	float: right;
+	margin-right: 50px;
+	margin-top: 0px;
+}
+.SJ {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #191970;
+	font-weight: bold;
+	font-size: 21px;
+	background-color: #FFFF00;
+	border-width: 1px;
+	border-color: black;
+	border-style: solid;
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-bottom: 50px;
+	padding-top: 50px;
+	margin: 50px;
+}
+.JJ {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #800000;
+	font-weight: bold;
+	font-size: 21px;
+	background-color: #FAEBD7;
+	border-width: 1px; 
+	border-color: black;
+	border-style: solid;
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	margin: 50px;
+}
+.LovePoem {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #DA70D6;
+	font-weight: bold;
+	font-size: 21px;
+	background-color: #E0FFFF;
+	border-width: 1px;
+	border-color: black;
+	border-style: solid;
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	margin: 50px;
+}
